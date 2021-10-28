@@ -825,6 +825,8 @@ a {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
 }
 .w3-display-left {
     position: absolute;
@@ -1099,6 +1101,7 @@ a {
 }
 .w3-jumbo {
     font-size: 64px !important;
+    text-align: center;
 }
 .w3-left-align {
     text-align: left !important;
